@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1578389527 source:c:\data\ludus\deuxième année\c\tp\bataille_navale_f2\bataille_navale\main.c
+1578943208 source:c:\data\ludus\deuxième année\c\tp\bataille_navale_f2\bataille_navale\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
+	<string.h>
 
